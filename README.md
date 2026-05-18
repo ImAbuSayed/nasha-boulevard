@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nasha-boulevard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Nasha Boulevard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nasha-boulevard/) |
+| **Get License** | [Music Rights & Licensing for Nasha Boulevard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nasha-boulevard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera, neend sadi udd gayi
+> Vekhdi ae mainu jadon, hosh meri mudd gayi
+> Tension in the club, I can feel it when you move
+> Aaja mere nede baby, get into the groove
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
